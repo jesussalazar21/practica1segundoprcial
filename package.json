@@ -1,0 +1,11 @@
+{
+  "name": "hola",
+  "version": "1.0.0",
+  "description": "este es mi primer paquete creado manualmente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salazar Hernandez Jesus Enrique",
+  "license": "ISC"
+}

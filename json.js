@@ -1,0 +1,5 @@
+const json=require('./archivo.json')
+//console.log(json)
+//console.log(json.editorial)
+//console.log(json.colores)
+console.log(json.nombres.alumno1)
